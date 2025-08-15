@@ -1,0 +1,97 @@
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 10px;
+}
+
+.links {
+    color: rgb(28, 13, 233);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: right;
+}
+
+.nav {
+    display: inline-block;
+    margin: 0 3px;
+    font-size: 20px;
+}
+
+#home {
+    margin: 20px;
+    border: 3px solid #4d3edb;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+}
+
+#about {
+    margin: 20px;
+    border: 3px solid #4d3edb;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+}
+
+#contact {
+    margin: 20px;
+    border: 3px solid #4d3edb;
+    border-radius: 3px;
+    padding: 10px;
+    text-align: center;
+}
+
+.intro {
+    color: rgb(28, 13, 233);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px; 
+}
+
+.para {
+    font-size: 20px;
+    color: black;
+}
+
+.about {
+    color: rgb(28, 13, 233);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px; 
+}
+
+.input {
+    font-size: 20px;
+    color: black;
+}
+
+.details {
+    font-size: 20px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #302424;
+    border-radius: 4px;
+}
+
+.sub-but {
+    background-color: #4d3edb; 
+    border: 3px;
+    border-radius: 10px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.footer {
+
+    color: rgb(92, 85, 85);
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 0;
+  
+}
